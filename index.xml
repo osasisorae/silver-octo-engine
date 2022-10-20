@@ -2,92 +2,92 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hi, I&#39;m Osarenren Isorae on I.O</title>
-    <link>https://osasisorae.github.io/portfolio/</link>
+    <link>https://osasisorae.github.io/</link>
     <description>Recent content in Hi, I&#39;m Osarenren Isorae on I.O</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Oct 2022 11:25:05 -0400</lastBuildDate><atom:link href="https://osasisorae.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Oct 2022 11:25:05 -0400</lastBuildDate><atom:link href="https://osasisorae.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project VI: Diabetes prediction classifier</title>
-      <link>https://osasisorae.github.io/portfolio/post/project-6/</link>
+      <link>https://osasisorae.github.io/post/project-6/</link>
       <pubDate>Mon, 17 Oct 2022 11:25:05 -0400</pubDate>
       
-      <guid>https://osasisorae.github.io/portfolio/post/project-6/</guid>
+      <guid>https://osasisorae.github.io/post/project-6/</guid>
       <description>The goal was to predict whether or not an individual is likely to have diabetes based on the features body mass index (BMI) and age (in years). Therefore, it is a binary classification problem. A target value of 0 indicates that the individual does not have diabetes, while a value of 1 indicates that the individual does have diabetes.
 Data was collected in excel sheets and loaded as a pandas dataframe.</description>
     </item>
     
     <item>
       <title>Project VII: Music Popularity Prediction</title>
-      <link>https://osasisorae.github.io/portfolio/post/project-7/</link>
+      <link>https://osasisorae.github.io/post/project-7/</link>
       <pubDate>Wed, 12 Oct 2022 11:25:05 -0400</pubDate>
       
-      <guid>https://osasisorae.github.io/portfolio/post/project-7/</guid>
+      <guid>https://osasisorae.github.io/post/project-7/</guid>
       <description>Note:
 Scikit learn requires numeric data and no missing values. Real world data often has missing values so we will preprocess data often eg you recieve a color as your data, this makes it categorica and as scikit learn will not accept categorical, you&amp;rsquo;ll need to convert it to numerical. You can create binary features from the categories, this is abinary preprocession called Dummy Variables. Binary features from a list of music genres To create dummy variables, we can use scikit-learn: OneHotEncoder or pandas: get_dummies()</description>
     </item>
     
     <item>
       <title>Project V: Pedagogue.ai CNN Handwriting Recognizer</title>
-      <link>https://osasisorae.github.io/portfolio/post/project-5/</link>
+      <link>https://osasisorae.github.io/post/project-5/</link>
       <pubDate>Wed, 28 Sep 2022 11:15:58 -0400</pubDate>
       
-      <guid>https://osasisorae.github.io/portfolio/post/project-5/</guid>
+      <guid>https://osasisorae.github.io/post/project-5/</guid>
       <description>Binary features from a list of music genres Coming soon</description>
     </item>
     
     <item>
       <title>Project III: Python Web Scrapers/Data Warehouse</title>
-      <link>https://osasisorae.github.io/portfolio/post/project-3/</link>
+      <link>https://osasisorae.github.io/post/project-3/</link>
       <pubDate>Sun, 11 Apr 2021 11:13:32 -0400</pubDate>
       
-      <guid>https://osasisorae.github.io/portfolio/post/project-3/</guid>
+      <guid>https://osasisorae.github.io/post/project-3/</guid>
       <description>Python Data Scientist filerskeepers · Full-time Oct 2020 - Jul 2022 · 1 yr 10 mo Amsterdam, North Holland, Netherlands
 Here I led a solo team, had a series of brainstorming with the CEO, conceptualize business automation process and features for a key department. Developed web scrapers, extracting data from targeted websites and performing NLP filtering operations on the text on each file. developed and deployed on staging, a dashboard with email auth where team members can upload a file or series of files and readily create processed file showing better insights in the data.</description>
     </item>
     
     <item>
       <title>Project I: Fmoh ISS</title>
-      <link>https://osasisorae.github.io/portfolio/post/project-1/</link>
+      <link>https://osasisorae.github.io/post/project-1/</link>
       <pubDate>Wed, 09 Dec 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://osasisorae.github.io/portfolio/post/project-1/</guid>
+      <guid>https://osasisorae.github.io/post/project-1/</guid>
       <description>Analysis of key health indicators Built a data collection Web application for medical researchers using Django, leveraging Ona&amp;rsquo;s Open source project. Led a team of two from Idea to prototype and built a reminder tool using slack&amp;rsquo;s API for the Human Resource team. Working in a team of 3, I developed multiple unit tests for a health tech project running on Django.</description>
     </item>
     
     <item>
       <title>Project II: Clone and Upgrade ONA data</title>
-      <link>https://osasisorae.github.io/portfolio/post/project-2/</link>
+      <link>https://osasisorae.github.io/post/project-2/</link>
       <pubDate>Mon, 10 Feb 2020 11:00:59 -0400</pubDate>
       
-      <guid>https://osasisorae.github.io/portfolio/post/project-2/</guid>
+      <guid>https://osasisorae.github.io/post/project-2/</guid>
       <description>Cloned and upgraded open source program by adding additional api endpoints, removing api end points, writing and refactoring unit tests, migrated from Django 1.1&amp;gt;2.2&amp;gt;3.0</description>
     </item>
     
     <item>
       <title>Project IV: Object Identifier, Keras Mobile Net</title>
-      <link>https://osasisorae.github.io/portfolio/post/project-4/</link>
+      <link>https://osasisorae.github.io/post/project-4/</link>
       <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
       
-      <guid>https://osasisorae.github.io/portfolio/post/project-4/</guid>
+      <guid>https://osasisorae.github.io/post/project-4/</guid>
       <description>Uploading</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://osasisorae.github.io/portfolio/about/</link>
+      <link>https://osasisorae.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://osasisorae.github.io/portfolio/about/</guid>
-      <description>I studied mechanical engineering in the University of Nigeria, Nsukka for over 4 years, then I dropped out during my 6 months internship as I got retained by ehealth4everyone as a Python Django Developer. I worked closely with data as I helped build a data collection application, with numerious API endpoints and functionalities. I got my hands into the mentoring part of software as I lead a weekly study program for aspiring python developers until covid.</description>
+      <guid>https://osasisorae.github.io/about/</guid>
+      <description>I studied mechanical engineering at the University of Nigeria, Nsukka for over 4 years, then I dropped out during my 6 months internship as I got retained by ehealth4everyone as a Python Django Developer. I worked closely with data as I helped build a data collection application, with numerous API endpoints and functionalities. I got into the mentoring part of the software as I led a weekly study program for aspiring python developers until covid.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://osasisorae.github.io/portfolio/contact/</link>
+      <link>https://osasisorae.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://osasisorae.github.io/portfolio/contact/</guid>
+      <guid>https://osasisorae.github.io/contact/</guid>
       <description>Follow me on LinkedIn and Freelancer, Send me an email anything@oblack.tech. I look forward to our chat.</description>
     </item>
     
