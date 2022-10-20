@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on I.O</title>
+    <link>https://osasisorae.github.io/portfolio/tags/scene/</link>
+    <description>Recent content in scene on I.O</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Dec 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://osasisorae.github.io/portfolio/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project I: Fmoh ISS</title>
+      <link>https://osasisorae.github.io/portfolio/post/project-1/</link>
+      <pubDate>Wed, 09 Dec 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://osasisorae.github.io/portfolio/post/project-1/</guid>
+      <description>Analysis of key health indicators Built a data collection Web application for medical researchers using Django, leveraging Ona&amp;rsquo;s Open source project. Led a team of two from Idea to prototype and built a reminder tool using slack&amp;rsquo;s API for the Human Resource team. Working in a team of 3, I developed multiple unit tests for a health tech project running on Django.</description>
+    </item>
+    
+    <item>
+      <title>Project IV: Object Identifier, Keras Mobile Net</title>
+      <link>https://osasisorae.github.io/portfolio/post/project-4/</link>
+      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
+      
+      <guid>https://osasisorae.github.io/portfolio/post/project-4/</guid>
+      <description>Uploading</description>
+    </item>
+    
+  </channel>
+</rss>
