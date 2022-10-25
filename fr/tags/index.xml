@@ -6,11 +6,353 @@
     <description>Recent content in Tags on I.O fr</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate><atom:link href="https://osasisorae.github.io/silver-octo-engine/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Sep 2022 11:15:58 -0400</lastBuildDate><atom:link href="https://osasisorae.github.io/silver-octo-engine/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>deep_learning</title>
+      <link>https://osasisorae.github.io/silver-octo-engine/fr/tags/deep_learning/</link>
+      <pubDate>Wed, 28 Sep 2022 11:15:58 -0400</pubDate>
+      
+      <guid>https://osasisorae.github.io/silver-octo-engine/fr/tags/deep_learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fastapi</title>
+      <link>https://osasisorae.github.io/silver-octo-engine/fr/tags/fastapi/</link>
+      <pubDate>Wed, 28 Sep 2022 11:15:58 -0400</pubDate>
+      
+      <guid>https://osasisorae.github.io/silver-octo-engine/fr/tags/fastapi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>google_cloud_platform</title>
+      <link>https://osasisorae.github.io/silver-octo-engine/fr/tags/google_cloud_platform/</link>
+      <pubDate>Wed, 28 Sep 2022 11:15:58 -0400</pubDate>
+      
+      <guid>https://osasisorae.github.io/silver-octo-engine/fr/tags/google_cloud_platform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gpu</title>
+      <link>https://osasisorae.github.io/silver-octo-engine/fr/tags/gpu/</link>
+      <pubDate>Wed, 28 Sep 2022 11:15:58 -0400</pubDate>
+      
+      <guid>https://osasisorae.github.io/silver-octo-engine/fr/tags/gpu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kaggle_kernels</title>
+      <link>https://osasisorae.github.io/silver-octo-engine/fr/tags/kaggle_kernels/</link>
+      <pubDate>Wed, 28 Sep 2022 11:15:58 -0400</pubDate>
+      
+      <guid>https://osasisorae.github.io/silver-octo-engine/fr/tags/kaggle_kernels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>keras</title>
+      <link>https://osasisorae.github.io/silver-octo-engine/fr/tags/keras/</link>
+      <pubDate>Wed, 28 Sep 2022 11:15:58 -0400</pubDate>
+      
+      <guid>https://osasisorae.github.io/silver-octo-engine/fr/tags/keras/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>microsoft_azure</title>
+      <link>https://osasisorae.github.io/silver-octo-engine/fr/tags/microsoft_azure/</link>
+      <pubDate>Wed, 28 Sep 2022 11:15:58 -0400</pubDate>
+      
+      <guid>https://osasisorae.github.io/silver-octo-engine/fr/tags/microsoft_azure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mongodb</title>
+      <link>https://osasisorae.github.io/silver-octo-engine/fr/tags/mongodb/</link>
+      <pubDate>Wed, 28 Sep 2022 11:15:58 -0400</pubDate>
+      
+      <guid>https://osasisorae.github.io/silver-octo-engine/fr/tags/mongodb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neural_networks</title>
+      <link>https://osasisorae.github.io/silver-octo-engine/fr/tags/neural_networks/</link>
+      <pubDate>Wed, 28 Sep 2022 11:15:58 -0400</pubDate>
+      
+      <guid>https://osasisorae.github.io/silver-octo-engine/fr/tags/neural_networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tensorflow</title>
+      <link>https://osasisorae.github.io/silver-octo-engine/fr/tags/tensorflow/</link>
+      <pubDate>Wed, 28 Sep 2022 11:15:58 -0400</pubDate>
+      
+      <guid>https://osasisorae.github.io/silver-octo-engine/fr/tags/tensorflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>apache</title>
+      <link>https://osasisorae.github.io/silver-octo-engine/fr/tags/apache/</link>
+      <pubDate>Sun, 11 Apr 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://osasisorae.github.io/silver-octo-engine/fr/tags/apache/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>asyncio</title>
+      <link>https://osasisorae.github.io/silver-octo-engine/fr/tags/asyncio/</link>
+      <pubDate>Sun, 11 Apr 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://osasisorae.github.io/silver-octo-engine/fr/tags/asyncio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aws</title>
+      <link>https://osasisorae.github.io/silver-octo-engine/fr/tags/aws/</link>
+      <pubDate>Sun, 11 Apr 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://osasisorae.github.io/silver-octo-engine/fr/tags/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bootstrap</title>
+      <link>https://osasisorae.github.io/silver-octo-engine/fr/tags/bootstrap/</link>
+      <pubDate>Sun, 11 Apr 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://osasisorae.github.io/silver-octo-engine/fr/tags/bootstrap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Django</title>
+      <link>https://osasisorae.github.io/silver-octo-engine/fr/tags/django/</link>
+      <pubDate>Sun, 11 Apr 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://osasisorae.github.io/silver-octo-engine/fr/tags/django/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>django_rest_framework</title>
+      <link>https://osasisorae.github.io/silver-octo-engine/fr/tags/django_rest_framework/</link>
+      <pubDate>Sun, 11 Apr 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://osasisorae.github.io/silver-octo-engine/fr/tags/django_rest_framework/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>google_trans_api</title>
+      <link>https://osasisorae.github.io/silver-octo-engine/fr/tags/google_trans_api/</link>
+      <pubDate>Sun, 11 Apr 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://osasisorae.github.io/silver-octo-engine/fr/tags/google_trans_api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gunicorn</title>
+      <link>https://osasisorae.github.io/silver-octo-engine/fr/tags/gunicorn/</link>
+      <pubDate>Sun, 11 Apr 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://osasisorae.github.io/silver-octo-engine/fr/tags/gunicorn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://osasisorae.github.io/silver-octo-engine/fr/tags/linux/</link>
+      <pubDate>Sun, 11 Apr 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://osasisorae.github.io/silver-octo-engine/fr/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nginx</title>
+      <link>https://osasisorae.github.io/silver-octo-engine/fr/tags/nginx/</link>
+      <pubDate>Sun, 11 Apr 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://osasisorae.github.io/silver-octo-engine/fr/tags/nginx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pymongo</title>
+      <link>https://osasisorae.github.io/silver-octo-engine/fr/tags/pymongo/</link>
+      <pubDate>Sun, 11 Apr 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://osasisorae.github.io/silver-octo-engine/fr/tags/pymongo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pytesseract</title>
+      <link>https://osasisorae.github.io/silver-octo-engine/fr/tags/pytesseract/</link>
+      <pubDate>Sun, 11 Apr 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://osasisorae.github.io/silver-octo-engine/fr/tags/pytesseract/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://osasisorae.github.io/silver-octo-engine/fr/tags/python/</link>
+      <pubDate>Sun, 11 Apr 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://osasisorae.github.io/silver-octo-engine/fr/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scikit_learn</title>
+      <link>https://osasisorae.github.io/silver-octo-engine/fr/tags/scikit_learn/</link>
+      <pubDate>Sun, 11 Apr 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://osasisorae.github.io/silver-octo-engine/fr/tags/scikit_learn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scrapy</title>
+      <link>https://osasisorae.github.io/silver-octo-engine/fr/tags/scrapy/</link>
+      <pubDate>Sun, 11 Apr 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://osasisorae.github.io/silver-octo-engine/fr/tags/scrapy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>selenium</title>
+      <link>https://osasisorae.github.io/silver-octo-engine/fr/tags/selenium/</link>
+      <pubDate>Sun, 11 Apr 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://osasisorae.github.io/silver-octo-engine/fr/tags/selenium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sqlite</title>
+      <link>https://osasisorae.github.io/silver-octo-engine/fr/tags/sqlite/</link>
+      <pubDate>Sun, 11 Apr 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://osasisorae.github.io/silver-octo-engine/fr/tags/sqlite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>unit_test</title>
+      <link>https://osasisorae.github.io/silver-octo-engine/fr/tags/unit_test/</link>
+      <pubDate>Sun, 11 Apr 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://osasisorae.github.io/silver-octo-engine/fr/tags/unit_test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bash</title>
+      <link>https://osasisorae.github.io/silver-octo-engine/fr/tags/bash/</link>
+      <pubDate>Thu, 31 Dec 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://osasisorae.github.io/silver-octo-engine/fr/tags/bash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>clickUpApi</title>
+      <link>https://osasisorae.github.io/silver-octo-engine/fr/tags/clickupapi/</link>
+      <pubDate>Thu, 31 Dec 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://osasisorae.github.io/silver-octo-engine/fr/tags/clickupapi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D3.js</title>
+      <link>https://osasisorae.github.io/silver-octo-engine/fr/tags/d3.js/</link>
+      <pubDate>Thu, 31 Dec 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://osasisorae.github.io/silver-octo-engine/fr/tags/d3.js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>debugging</title>
+      <link>https://osasisorae.github.io/silver-octo-engine/fr/tags/debugging/</link>
+      <pubDate>Thu, 31 Dec 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://osasisorae.github.io/silver-octo-engine/fr/tags/debugging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>flask</title>
+      <link>https://osasisorae.github.io/silver-octo-engine/fr/tags/flask/</link>
+      <pubDate>Thu, 31 Dec 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://osasisorae.github.io/silver-octo-engine/fr/tags/flask/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Highchart.js</title>
+      <link>https://osasisorae.github.io/silver-octo-engine/fr/tags/highchart.js/</link>
+      <pubDate>Thu, 31 Dec 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://osasisorae.github.io/silver-octo-engine/fr/tags/highchart.js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>matplotlib</title>
+      <link>https://osasisorae.github.io/silver-octo-engine/fr/tags/matplotlib/</link>
+      <pubDate>Thu, 31 Dec 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://osasisorae.github.io/silver-octo-engine/fr/tags/matplotlib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pandas</title>
+      <link>https://osasisorae.github.io/silver-octo-engine/fr/tags/pandas/</link>
+      <pubDate>Thu, 31 Dec 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://osasisorae.github.io/silver-octo-engine/fr/tags/pandas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>plotly</title>
+      <link>https://osasisorae.github.io/silver-octo-engine/fr/tags/plotly/</link>
+      <pubDate>Thu, 31 Dec 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://osasisorae.github.io/silver-octo-engine/fr/tags/plotly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>slackApi</title>
+      <link>https://osasisorae.github.io/silver-octo-engine/fr/tags/slackapi/</link>
+      <pubDate>Thu, 31 Dec 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://osasisorae.github.io/silver-octo-engine/fr/tags/slackapi/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>scene</title>
       <link>https://osasisorae.github.io/silver-octo-engine/fr/tags/scene/</link>
-      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
       
       <guid>https://osasisorae.github.io/silver-octo-engine/fr/tags/scene/</guid>
       <description></description>

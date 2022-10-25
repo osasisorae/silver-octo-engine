@@ -1,19 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Articles on I.O fr</title>
+    <title>Projets on I.O fr</title>
     <link>https://osasisorae.github.io/silver-octo-engine/fr/post/</link>
-    <description>Recent content in Articles on I.O fr</description>
+    <description>Recent content in Projets on I.O fr</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://osasisorae.github.io/silver-octo-engine/fr/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Chapitre I: La grande halle</title>
-      <link>https://osasisorae.github.io/silver-octo-engine/fr/post/chapter-1/</link>
-      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      <title>Project IV: pedagogue.ai</title>
+      <link>https://osasisorae.github.io/silver-octo-engine/fr/post/project-4/</link>
+      <pubDate>Wed, 28 Sep 2022 11:15:58 -0400</pubDate>
       
-      <guid>https://osasisorae.github.io/silver-octo-engine/fr/post/chapter-1/</guid>
-      <description>Généralement, on utilise un texte en faux latin (le texte ne veut rien dire, il a été modifié), le Lorem ipsum ou Lipsum, qui permet donc de faire office de texte d&amp;rsquo;attente. L&amp;rsquo;avantage de le mettre en latin est que l&amp;rsquo;opérateur sait au premier coup d&amp;rsquo;oeil que la page contenant ces lignes n&amp;rsquo;est pas valide, et surtout l&amp;rsquo;attention du client n&amp;rsquo;est pas dérangée par le contenu, il demeure concentré seulement sur l&amp;rsquo;aspect graphique.</description>
+      <guid>https://osasisorae.github.io/silver-octo-engine/fr/post/project-4/</guid>
+      <description>WIP</description>
+    </item>
+    
+    <item>
+      <title>Project II: Filerskeepers API(confidential)</title>
+      <link>https://osasisorae.github.io/silver-octo-engine/fr/post/project-2/</link>
+      <pubDate>Sun, 11 Apr 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://osasisorae.github.io/silver-octo-engine/fr/post/project-2/</guid>
+      <description>Python Data Scientist
+filerskeepers · Full-time
+Oct 2020 - Jul 2022 · 1 yr 10 months
+Amsterdam, North Holland, Netherlands\
+My first data job, I was the only data Engineer in the team.
+I brainstormed with the CEO, and took note of two things; our available data and how we acquire them.
+v.1 of projectX had the following tools:
+Web extracting tool, collecting over ten thousand links per day. Web availability tool, running daily checks on the statuses of our live urls.</description>
+    </item>
+    
+    <item>
+      <title>Project I: Fmoh ISS</title>
+      <link>https://osasisorae.github.io/silver-octo-engine/fr/post/project-1/</link>
+      <pubDate>Thu, 31 Dec 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://osasisorae.github.io/silver-octo-engine/fr/post/project-1/</guid>
+      <description>Python Web Developer
+ehealth4everyone · Stage
+July 2019 - Dec 2020 · 6 months
+FCT Abuja, Nigeria
+Trois mois avant mon stage, j&amp;rsquo;ai suivi un cours sur Udemy: Django Dev to Deployment.
+Nous avons exploré une application web immobilière,github Cette formation m&amp;rsquo;a donné les connaissances nécessaires à la création d&amp;rsquo;une application d&amp;rsquo;annonce immobilière, y compris un tableau de bord d&amp;rsquo;administration.
+The first few weeks was spent onboarding and introduction to our code base.</description>
+    </item>
+    
+    <item>
+      <title>Project III: Object Identifier, Keras Mobile Net</title>
+      <link>https://osasisorae.github.io/silver-octo-engine/fr/post/project-3/</link>
+      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
+      
+      <guid>https://osasisorae.github.io/silver-octo-engine/fr/post/project-3/</guid>
+      <description>Uploading</description>
     </item>
     
   </channel>

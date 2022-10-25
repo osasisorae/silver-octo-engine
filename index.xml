@@ -8,20 +8,20 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Sep 2022 11:15:58 -0400</lastBuildDate><atom:link href="https://osasisorae.github.io/silver-octo-engine/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Project V: pedagogue.ai</title>
-      <link>https://osasisorae.github.io/silver-octo-engine/post/project-5/</link>
+      <title>Project IV: pedagogue.ai</title>
+      <link>https://osasisorae.github.io/silver-octo-engine/post/project-4/</link>
       <pubDate>Wed, 28 Sep 2022 11:15:58 -0400</pubDate>
       
-      <guid>https://osasisorae.github.io/silver-octo-engine/post/project-5/</guid>
+      <guid>https://osasisorae.github.io/silver-octo-engine/post/project-4/</guid>
       <description>WIP</description>
     </item>
     
     <item>
-      <title>Project III: Filerskeepers API(confidential)</title>
-      <link>https://osasisorae.github.io/silver-octo-engine/post/project-3/</link>
+      <title>Project II: Filerskeepers API(confidential)</title>
+      <link>https://osasisorae.github.io/silver-octo-engine/post/project-2/</link>
       <pubDate>Sun, 11 Apr 2021 11:13:32 -0400</pubDate>
       
-      <guid>https://osasisorae.github.io/silver-octo-engine/post/project-3/</guid>
+      <guid>https://osasisorae.github.io/silver-octo-engine/post/project-2/</guid>
       <description>Python Data Scientist
 filerskeepers · Full-time
 Oct 2020 - Jul 2022 · 1 yr 10 months
@@ -35,27 +35,24 @@ Web extracting tool, collecting over ten thousand links per day. Web availabilit
     <item>
       <title>Project I: Fmoh ISS</title>
       <link>https://osasisorae.github.io/silver-octo-engine/post/project-1/</link>
-      <pubDate>Wed, 09 Dec 2020 10:58:08 -0400</pubDate>
+      <pubDate>Thu, 31 Dec 2020 10:58:08 -0400</pubDate>
       
       <guid>https://osasisorae.github.io/silver-octo-engine/post/project-1/</guid>
-      <description>Analysis of key health indicators Built a data collection Web application for medical researchers using Django, leveraging Ona&amp;rsquo;s Open source project. Led a team of two from Idea to prototype and built a reminder tool using slack&amp;rsquo;s API for the Human Resource team. Working in a team of 3, I developed multiple unit tests for a health tech project running on Django.</description>
+      <description>Python Web Developer
+ehealth4everyone · Internship
+July 2019 - Dec 2020 · 6 months
+FCT Abuja, Nigeria
+Three months before my internship, I took a course on Udemy: Django Dev to Deployment.
+We explored a real estate web application,github This training gave me the knowledge of building a Real Estate listing application, including an admin dashboard.
+The first few weeks was spent onboarding and introduction to our code base. We then installed the development version to our individual systems.</description>
     </item>
     
     <item>
-      <title>Project II: Clone and Upgrade ONA data</title>
-      <link>https://osasisorae.github.io/silver-octo-engine/post/project-2/</link>
-      <pubDate>Mon, 10 Feb 2020 11:00:59 -0400</pubDate>
-      
-      <guid>https://osasisorae.github.io/silver-octo-engine/post/project-2/</guid>
-      <description>Cloned and upgraded open source program by adding additional api endpoints, removing api end points, writing and refactoring unit tests, migrated from Django 1.1&amp;gt;2.2&amp;gt;3.0</description>
-    </item>
-    
-    <item>
-      <title>Project IV: Object Identifier, Keras Mobile Net</title>
-      <link>https://osasisorae.github.io/silver-octo-engine/post/project-4/</link>
+      <title>Project III: Object Identifier, Keras Mobile Net</title>
+      <link>https://osasisorae.github.io/silver-octo-engine/post/project-3/</link>
       <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
       
-      <guid>https://osasisorae.github.io/silver-octo-engine/post/project-4/</guid>
+      <guid>https://osasisorae.github.io/silver-octo-engine/post/project-3/</guid>
       <description>Uploading</description>
     </item>
     
@@ -74,7 +71,11 @@ Web extracting tool, collecting over ten thousand links per day. Web availabilit
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://osasisorae.github.io/silver-octo-engine/contact/</guid>
-      <description>Follow me on LinkedIn and Freelancer, Send me an email anything@oblack.tech. I look forward to our chat.</description>
+      <description>linkedIn
+freelancer
+email
+github
+gitlab</description>
     </item>
     
   </channel>

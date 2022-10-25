@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>django_rest_framework on I.O</title>
+    <link>https://osasisorae.github.io/silver-octo-engine/tags/django_rest_framework/</link>
+    <description>Recent content in django_rest_framework on I.O</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Apr 2021 11:13:32 -0400</lastBuildDate><atom:link href="https://osasisorae.github.io/silver-octo-engine/tags/django_rest_framework/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project II: Filerskeepers API(confidential)</title>
+      <link>https://osasisorae.github.io/silver-octo-engine/post/project-2/</link>
+      <pubDate>Sun, 11 Apr 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://osasisorae.github.io/silver-octo-engine/post/project-2/</guid>
+      <description>Python Data Scientist
+filerskeepers · Full-time
+Oct 2020 - Jul 2022 · 1 yr 10 months
+Amsterdam, North Holland, Netherlands\
+My first data job, I was the only data Engineer in the team.
+I brainstormed with the CEO, and took note of two things; our available data and how we acquire them.
+v.1 of projectX had the following tools:
+Web extracting tool, collecting over ten thousand links per day. Web availability tool, running daily checks on the statuses of our live urls.</description>
+    </item>
+    
+  </channel>
+</rss>
