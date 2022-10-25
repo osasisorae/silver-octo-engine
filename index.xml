@@ -6,34 +6,14 @@
     <description>Recent content in Hi, I&#39;m Osarenren Isorae on I.O</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Oct 2022 11:25:05 -0400</lastBuildDate><atom:link href="https://osasisorae.github.io/silver-octo-engine/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Sep 2022 11:15:58 -0400</lastBuildDate><atom:link href="https://osasisorae.github.io/silver-octo-engine/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Project VI: Diabetes prediction classifier</title>
-      <link>https://osasisorae.github.io/silver-octo-engine/post/project-6/</link>
-      <pubDate>Mon, 17 Oct 2022 11:25:05 -0400</pubDate>
-      
-      <guid>https://osasisorae.github.io/silver-octo-engine/post/project-6/</guid>
-      <description>The goal was to predict whether or not an individual is likely to have diabetes based on the features body mass index (BMI) and age (in years). Therefore, it is a binary classification problem. A target value of 0 indicates that the individual does not have diabetes, while a value of 1 indicates that the individual does have diabetes.
-Data was collected in excel sheets and loaded as a pandas dataframe.</description>
-    </item>
-    
-    <item>
-      <title>Project VII: Music Popularity Prediction</title>
-      <link>https://osasisorae.github.io/silver-octo-engine/post/project-7/</link>
-      <pubDate>Wed, 12 Oct 2022 11:25:05 -0400</pubDate>
-      
-      <guid>https://osasisorae.github.io/silver-octo-engine/post/project-7/</guid>
-      <description>Note:
-Scikit learn requires numeric data and no missing values. Real world data often has missing values so we will preprocess data often eg you recieve a color as your data, this makes it categorica and as scikit learn will not accept categorical, you&amp;rsquo;ll need to convert it to numerical. You can create binary features from the categories, this is abinary preprocession called Dummy Variables. Binary features from a list of music genres To create dummy variables, we can use scikit-learn: OneHotEncoder or pandas: get_dummies()</description>
-    </item>
-    
-    <item>
-      <title>Project V: Pedagogue.ai CNN Handwriting Recognizer</title>
+      <title>Project V: pedagogue.ai</title>
       <link>https://osasisorae.github.io/silver-octo-engine/post/project-5/</link>
       <pubDate>Wed, 28 Sep 2022 11:15:58 -0400</pubDate>
       
       <guid>https://osasisorae.github.io/silver-octo-engine/post/project-5/</guid>
-      <description>Binary features from a list of music genres Coming soon</description>
+      <description>WIP</description>
     </item>
     
     <item>
